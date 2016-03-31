@@ -7,5 +7,5 @@
 
 link to launch the web app: <a href="http://binghuan.github.io/tvwall/" target="_blank">http://binghuan.github.io/tvwall/</a>
 
-## DEMO
+### Illustration
 <img src="images/demo.png" width="640px" height="auto">
