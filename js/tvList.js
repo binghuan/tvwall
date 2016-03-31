@@ -27,10 +27,6 @@ var tvList = [{
     "title1": "udn tv",
     "title2": "udn tv"
 }, {
-    "id": "442h7wXH9yM",
-    "title1": "udn tv2",
-    "title2": "udn tv2"
-}, {
     "id": "7jeteD5lcYE",
     "title1": "CCTV News",
     "title2": "CCTV News"
@@ -58,12 +54,4 @@ var tvList = [{
     "id": "y60wDzZt8yg",
     "title1": "Skye News Live",
     "title2": "Skye News Live"
-}, {
-    "id": "ncokmFpR0zE",
-    "title1": "UK Column Live Stream",
-    "title2": "UK Column Live Stream",
-}, {
-    "id": "RpS4HkO3D5w",
-    "title1": "新唐人",
-    "title2": "新唐人"
 }];
